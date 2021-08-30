@@ -13,3 +13,7 @@ Do the following:
 1. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
 1. To finish, submit the link to your repository in your account on github to the assignment on BB. 
+
+For breakfast, I had:
+a tasty cup of black coffee
+a homemade egg sandwich on an english muffin with red & green peppers, onion, cheese, and spices
